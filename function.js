@@ -1,4 +1,5 @@
- <script>
+object.addEventListener("load", myScript);
+<script>
   object.onload = function(){myScript};
       function openColorBox(){
         $.colorbox({iframe:true, width:"80%", height:"80%", href: "http://www.sitepoint.com"});
